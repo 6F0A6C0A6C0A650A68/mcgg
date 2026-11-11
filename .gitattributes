@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+# the dump is machine-generated and huge; don't diff it or let it skew language stats
+dump/mc_dump.cs -diff linguist-generated linguist-language=Text
