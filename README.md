@@ -2,9 +2,11 @@
 
 An IL2CPP metadata dump for **Magic Chess: Go Go** (`com.mobilechess.gp`), Unity **2019.4.33f1**.
 
-The game ships a zero-byte `global-metadata.dat` and a stub `libil2cpp.so`, so a static dump gets
-you nothing — this was captured from a running client. Published here as a reference for research
-and interoperability work.
+Magic Chess: Go Go — also written *MCGG* or *Magic Chess GoGo* — is the standalone auto-battler
+spun off from Mobile Legends: Bang Bang (MLBB). It ships a zero-byte `global-metadata.dat` and a
+stub `libil2cpp.so`, so a static dump gets you nothing; this one was captured from a running client
+and written out in Il2CppDumper's `dump.cs` format. Published here as a reference for research and
+interoperability work.
 
 | | |
 |---|---|
